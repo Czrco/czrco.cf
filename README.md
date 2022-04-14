@@ -11,6 +11,7 @@ also [freenom](https://www.freenom.com/en/index.html?lang=en) is cool go check i
 
 ## how do i navigate through this abomination
 alr, APEX is the root folder of czrco.cf. go there for the home page of the website
+CNAME is just for cloudflare setup don't bother doing anything with it lol
 WWW is the same as APEX but it's www.czrco.cf instead of just czrco.cf. and yes i am not stupid i use https dumbass
 
-k that's czrco.cf lol i dont wanna doc any more of this shit
+k that's czrco.cf i dont wanna doc any more of this shit
