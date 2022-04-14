@@ -9,9 +9,4 @@ thats me! btw i am 13 and he/him
 yeah i made this bc i wanted to make my own bio website. i dont like using prounons.page, so i made this.
 also [freenom](https://www.freenom.com/en/index.html?lang=en) is cool go check it out
 
-## how do i navigate through this abomination
-alr, APEX is the root folder of czrco.cf. go there for the home page of the website
-CNAME is just for cloudflare setup don't bother doing anything with it lol
-WWW is the same as APEX but it's www.czrco.cf instead of just czrco.cf. and yes i am not stupid i use https dumbass
-
 k that's czrco.cf i dont wanna doc any more of this shit
