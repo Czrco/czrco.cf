@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(90deg, #0024FF 0%, #0067F7 100%);
+}
+
+button {
+    background-color: #00C3FF;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+button:hover {
+    background-color: #00ace0;
+}
+
+p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
